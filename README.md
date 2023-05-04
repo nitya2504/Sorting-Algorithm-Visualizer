@@ -1,8 +1,8 @@
 # Algorithm Visualizer
-A <a href="https://vkg2000.github.io/Algo-Visualizer/">webpage</a> running a script which animates different sorting algorithms making them easier to understand.\
+A <a href="https://nitya2504.github.io/Sorting-Algorithm-Visualizer/">webpage</a> running a script which animates different sorting algorithms making them easier to understand.\
 Best viewed on Laptops or switch to portrait mode on mobile screens.
 <br>
-<a href="https://vkg2000.github.io/Algo-Visualizer/">Click here</a> to visit the webpage.
+<a href="https://nitya2504.github.io/Sorting-Algorithm-Visualizer/">Click here</a> to visit the webpage.
 
 
 ## Colors during sorting

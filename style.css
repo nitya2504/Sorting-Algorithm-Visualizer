@@ -11,6 +11,7 @@ body{
 	float: left;
 	display: flex;
 }
+
 .logo{
 	margin-top: 20px;
 	font-family: 'Rye', cursive;
